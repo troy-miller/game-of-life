@@ -2,11 +2,6 @@
 
 Implementation of John Horton Conway's 1970 "zero player game"
 
-QUICK DISCLAIMER:
-- This is my first project on the site and my first real "finished" project (albeit small and insignificant haha)
-- This is really just meant to help me get a start on building a portfolio of projects to help me strengthen my resume!
-- Of course, if you have any changes or comments, please send them in! I'm still a student and want as many chances to learn as possible
-
 Conway designed the game as such:
 - The board is a grid of squares called "cells"
 - Each cell interacts with its 8 neighbors to determine if it will survive the next generation, die, or come to life
